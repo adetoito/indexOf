@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         /*
-        indexOf is a String method that returns the index (position) of a letter
+        indexOf is a String method that returns the index (position) of a letter or string
         from a certain index.
 
         public int indexOf(String s, int from)
